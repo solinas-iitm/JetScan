@@ -1,0 +1,1143 @@
+2025-07-04 13:09:51,746 - INFO - Initialization successful.
+2025-07-04 13:09:51,748 - INFO - Camera now open.
+2025-07-04 13:09:51,770 - INFO - Configuration successful!
+2025-07-04 13:09:52,079 - INFO - Camera started
+2025-07-04 13:09:52,081 - INFO - Camera initialized successfully
+2025-07-04 13:09:52,082 - INFO - Camera controller started
+2025-07-04 13:09:52,086 - INFO - Status - Voltage: 11346.00V, Charging: None, Storage: 21.78GB
+2025-07-04 13:09:52,087 - INFO - Starting recording: All conditions met
+2025-07-04 13:09:52,294 - INFO - Started recording: /home/raspberry/Jetscan/video/recording_20250704_130952.h264
+2025-07-04 13:10:02,298 - INFO - Status - Voltage: 11337.00V, Charging: None, Storage: 21.77GB
+2025-07-04 13:10:12,303 - INFO - Status - Voltage: 11336.00V, Charging: None, Storage: 21.76GB
+2025-07-04 13:10:22,308 - INFO - Status - Voltage: 11332.00V, Charging: None, Storage: 21.75GB
+2025-07-04 13:10:32,316 - INFO - Status - Voltage: 11331.00V, Charging: None, Storage: 21.74GB
+2025-07-04 13:10:42,321 - INFO - Status - Voltage: 11329.00V, Charging: None, Storage: 21.72GB
+2025-07-04 13:10:52,327 - INFO - Status - Voltage: 11330.00V, Charging: None, Storage: 21.71GB
+2025-07-04 13:11:02,359 - INFO - Status - Voltage: 11328.00V, Charging: None, Storage: 21.70GB
+2025-07-04 13:11:12,369 - INFO - Status - Voltage: 11330.00V, Charging: None, Storage: 21.69GB
+2025-07-04 13:11:22,396 - INFO - Status - Voltage: 11330.00V, Charging: True, Storage: 21.68GB
+2025-07-04 13:11:22,407 - INFO - Stopping recording: Charging detected
+2025-07-04 13:11:22,597 - INFO - Camera stopped
+2025-07-04 13:11:22,660 - INFO - Stopped recording: /home/raspberry/Jetscan/video/recording_20250704_130952.h264
+2025-07-04 13:11:32,675 - INFO - Status - Voltage: 11406.00V, Charging: True, Storage: 21.68GB
+2025-07-04 13:11:42,682 - INFO - Status - Voltage: 11347.00V, Charging: None, Storage: 21.68GB
+2025-07-04 13:11:42,683 - INFO - Starting recording: All conditions met
+2025-07-04 13:11:43,053 - INFO - Camera started
+2025-07-04 13:11:43,054 - INFO - Started recording: /home/raspberry/Jetscan/video/recording_20250704_131142.h264
+2025-07-04 13:11:53,061 - INFO - Status - Voltage: 11334.00V, Charging: None, Storage: 21.67GB
+2025-07-04 13:12:03,074 - INFO - Status - Voltage: 11332.00V, Charging: None, Storage: 21.65GB
+2025-07-04 13:12:13,081 - INFO - Status - Voltage: 11331.00V, Charging: None, Storage: 21.64GB
+2025-07-04 13:12:17,242 - INFO - Received signal 2
+2025-07-04 13:12:23,087 - INFO - Status - Voltage: 11330.00V, Charging: None, Storage: 21.63GB
+2025-07-04 13:12:23,088 - INFO - Cleaning up...
+2025-07-04 13:12:23,125 - INFO - Camera stopped
+2025-07-04 13:12:23,176 - INFO - Stopped recording: /home/raspberry/Jetscan/video/recording_20250704_131142.h264
+2025-07-04 13:12:23,721 - INFO - Camera closed successfully.
+2025-07-04 13:12:23,722 - INFO - Camera controller stopped
+2025-07-04 13:29:07,816 - INFO - Initialization successful.
+2025-07-04 13:29:07,819 - INFO - Camera now open.
+2025-07-04 13:29:07,840 - INFO - Configuration successful!
+2025-07-04 13:29:08,513 - INFO - Camera started
+2025-07-04 13:29:08,560 - INFO - Camera initialized successfully
+2025-07-04 13:29:09,658 - INFO - Camera stopped
+2025-07-04 13:29:09,877 - INFO - Camera closed successfully.
+2025-07-04 13:31:58,451 - INFO - Initialization successful.
+2025-07-04 13:31:58,459 - INFO - Camera now open.
+2025-07-04 13:31:58,479 - INFO - Configuration successful!
+2025-07-04 13:31:58,667 - INFO - Camera started
+2025-07-04 13:31:58,668 - INFO - Camera initialized successfully
+2025-07-04 13:31:59,470 - INFO - Camera stopped
+2025-07-04 13:31:59,686 - INFO - Camera closed successfully.
+2025-07-04 13:32:56,033 - INFO - Initialization successful.
+2025-07-04 13:32:56,035 - INFO - Camera now open.
+2025-07-04 13:32:56,056 - INFO - Configuration successful!
+2025-07-04 13:32:56,269 - INFO - Camera started
+2025-07-04 13:32:56,270 - INFO - Camera initialized successfully
+2025-07-04 13:32:56,926 - INFO - Starting Jetscan system...
+2025-07-04 13:32:56,927 - INFO - Starting camera thread...
+2025-07-04 13:32:56,929 - INFO - Starting web server thread...
+2025-07-04 13:32:56,932 - INFO - Starting display thread...
+2025-07-04 13:32:56,937 - INFO - Initialization successful.
+2025-07-04 13:32:56,940 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 13:32:56,941 - INFO - All threads started successfully
+2025-07-04 13:32:56,942 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 13:32:56,944 - ERROR - Fatal error: Camera __init__ sequence did not complete.
+2025-07-04 13:32:57,944 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:32:58,945 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:32:59,946 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:00,947 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:01,949 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:03,763 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:04,764 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:05,765 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:06,767 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:07,768 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:08,779 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:10,013 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:11,014 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:11,352 - INFO - Initialization successful.
+2025-07-04 13:33:11,374 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 13:33:11,375 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 13:33:12,015 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:13,015 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:14,017 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:14,022 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:15,031 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:15,031 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:16,032 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:16,034 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:17,035 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:17,037 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:18,038 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:18,039 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:19,040 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:19,041 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:20,044 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:20,045 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:21,046 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:21,047 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:22,048 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:22,049 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:23,050 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:23,051 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:24,052 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:24,054 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:25,056 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:25,057 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:26,058 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:26,064 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:27,065 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:27,069 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:28,072 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:28,073 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:29,074 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:29,075 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:30,078 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:30,079 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:31,080 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:31,081 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:32,082 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:32,083 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:33,084 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:33,085 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:34,086 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:34,088 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:35,089 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:35,090 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:36,091 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:36,091 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:37,093 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:37,094 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:38,095 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:38,095 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:39,096 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:39,097 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:40,100 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:40,101 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:41,102 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:41,103 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:42,104 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:42,105 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:43,106 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:43,107 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:44,108 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:44,109 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:45,110 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:45,111 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:46,112 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:46,113 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:47,115 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:47,116 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:48,117 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:48,118 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:49,119 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:49,120 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:50,122 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:50,123 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:51,124 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:51,125 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:52,126 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:52,127 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:53,129 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:53,130 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:54,131 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:54,132 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:55,134 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:55,135 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:56,136 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:56,137 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:57,138 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:57,139 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:58,140 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:58,142 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:33:59,143 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:33:59,144 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:00,146 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:00,147 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:01,148 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:01,149 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:02,150 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:02,151 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:03,152 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:03,153 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:04,153 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:04,154 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:05,155 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:05,156 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:06,157 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:06,158 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:07,159 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:07,161 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:08,162 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:08,163 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:09,164 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:09,166 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:10,170 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:10,171 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:11,172 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:11,173 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:12,174 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:12,176 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:13,177 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:13,178 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:14,179 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:14,180 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:15,181 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:15,182 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:16,183 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:16,184 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:17,185 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:17,186 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:18,187 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:20,314 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 13:34:20,786 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:21,787 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:21,789 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:22,790 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:22,791 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:23,792 - WARNING - Thread CameraThread has stopped
+2025-07-04 13:34:23,793 - WARNING - Thread WebServerThread has stopped
+2025-07-04 13:34:23,824 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 13:34:25,829 - INFO - Shutdown complete
+2025-07-04 13:34:26,675 - INFO - Camera stopped
+2025-07-04 13:34:26,837 - INFO - Camera closed successfully.
+2025-07-04 14:45:39,881 - INFO - Initialization successful.
+2025-07-04 14:45:39,893 - INFO - Camera now open.
+2025-07-04 14:45:39,930 - INFO - Configuration successful!
+2025-07-04 14:45:40,292 - INFO - Camera started
+2025-07-04 14:45:40,310 - INFO - Camera initialized successfully
+2025-07-04 14:45:42,089 - INFO - Starting Jetscan system...
+2025-07-04 14:45:42,091 - INFO - Starting camera thread...
+2025-07-04 14:45:42,099 - INFO - Starting web server thread...
+2025-07-04 14:45:42,112 - INFO - Starting display thread...
+2025-07-04 14:45:42,142 - INFO - All threads started successfully
+2025-07-04 14:45:42,145 - INFO - Initialization successful.
+2025-07-04 14:45:42,186 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 14:45:42,216 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 14:45:42,267 - ERROR - Fatal error: Camera __init__ sequence did not complete.
+2025-07-04 14:45:43,147 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:44,148 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:45,149 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:46,398 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:47,399 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:48,400 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:49,401 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:50,404 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:51,424 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:52,425 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:53,426 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:54,428 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:55,429 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:56,431 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:57,432 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:58,433 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:45:59,435 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:00,505 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:02,073 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:03,083 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:04,097 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:05,098 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:06,099 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:07,101 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:08,103 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:09,104 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:10,105 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:11,106 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:12,108 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:13,174 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:14,227 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:15,273 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:16,274 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:17,275 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:18,276 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:19,281 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:20,283 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:21,284 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:22,286 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:23,288 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:24,384 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:25,487 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:26,513 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:27,538 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:28,562 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:29,563 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:29,617 - INFO - Initialization successful.
+2025-07-04 14:46:29,702 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 14:46:29,703 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 14:46:30,565 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:31,566 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:32,567 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:33,569 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:34,570 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:35,575 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:36,577 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:37,940 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:38,942 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:39,948 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:40,950 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:41,952 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:42,954 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:43,955 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:45,424 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:46,425 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:47,427 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:48,445 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:49,471 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:49,476 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:50,477 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:50,478 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:51,479 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:51,480 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:52,481 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:52,482 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:53,483 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:53,484 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:54,487 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:54,488 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:55,489 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:55,490 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:56,491 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:56,492 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:57,493 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:57,494 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:58,495 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:58,496 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:46:59,497 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:46:59,499 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:00,500 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:00,501 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:01,502 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:01,504 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:02,505 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:02,506 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:03,507 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:03,508 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:04,510 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:04,511 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:05,512 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:05,513 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:06,513 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:06,515 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:07,516 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:07,517 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:08,518 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:08,518 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:09,520 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:09,521 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:10,525 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:10,527 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:11,530 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:11,531 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:12,532 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:12,534 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:13,535 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:13,537 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:14,540 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:14,541 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:15,542 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:15,544 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:16,545 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:16,546 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:17,547 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:17,548 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:18,549 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:18,554 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:19,556 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:19,558 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:20,560 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:20,561 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:21,562 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:21,562 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:22,563 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:22,564 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:23,565 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:23,566 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:24,568 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:24,568 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:25,569 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:25,570 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:26,571 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:26,572 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:27,573 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:31,358 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:47:31,796 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:32,798 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:32,799 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:33,800 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:33,801 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:34,802 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:47:34,803 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:47:35,244 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:47:37,249 - INFO - Shutdown complete
+2025-07-04 14:47:38,297 - INFO - Camera stopped
+2025-07-04 14:47:38,472 - INFO - Camera closed successfully.
+2025-07-04 14:48:59,964 - INFO - Initialization successful.
+2025-07-04 14:48:59,974 - INFO - Camera now open.
+2025-07-04 14:49:00,002 - INFO - Configuration successful!
+2025-07-04 14:49:00,268 - INFO - Camera started
+2025-07-04 14:49:00,269 - INFO - Camera initialized successfully
+2025-07-04 14:49:04,467 - INFO - Starting Jetscan system...
+2025-07-04 14:49:04,468 - INFO - Starting camera thread...
+2025-07-04 14:49:04,475 - INFO - Starting web server thread...
+2025-07-04 14:49:04,493 - INFO - Starting display thread...
+2025-07-04 14:49:04,502 - INFO - Initialization successful.
+2025-07-04 14:49:04,503 - INFO - All threads started successfully
+2025-07-04 14:49:04,531 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 14:49:04,534 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 14:49:05,532 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:06,533 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:07,534 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:08,536 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:09,537 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:10,538 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:11,548 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:12,549 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:13,550 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:14,734 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:15,735 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:49:16,095 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:49:16,921 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:49:18,813 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:49:19,622 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:49:21,633 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:49:22,567 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:49:23,819 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:49:25,820 - INFO - Shutdown complete
+2025-07-04 14:49:26,691 - INFO - Camera stopped
+2025-07-04 14:49:26,840 - INFO - Camera closed successfully.
+2025-07-04 14:56:09,824 - INFO - Initialization successful.
+2025-07-04 14:56:09,828 - INFO - Camera now open.
+2025-07-04 14:56:09,855 - INFO - Configuration successful!
+2025-07-04 14:56:10,099 - INFO - Camera started
+2025-07-04 14:56:10,100 - INFO - Camera initialized successfully
+2025-07-04 14:56:11,198 - INFO - Starting Jetscan system...
+2025-07-04 14:56:11,199 - INFO - Starting camera thread...
+2025-07-04 14:56:11,202 - INFO - Starting web server thread...
+2025-07-04 14:56:11,207 - INFO - Starting display thread...
+2025-07-04 14:56:11,211 - INFO - Initialization successful.
+2025-07-04 14:56:11,213 - INFO - All threads started successfully
+2025-07-04 14:56:11,228 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 14:56:11,231 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 14:56:12,230 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:13,231 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:14,233 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:15,234 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:16,235 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:17,236 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:18,728 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:19,732 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:20,733 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:21,735 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:22,736 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:23,737 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:24,738 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:25,739 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:26,740 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:27,741 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:28,743 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:29,745 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:30,746 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:31,579 - INFO - Initialization successful.
+2025-07-04 14:56:31,611 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 14:56:31,612 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 14:56:31,748 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:32,749 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:33,750 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:34,751 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:35,752 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:36,754 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:37,755 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:37,760 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:38,760 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:38,761 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:39,762 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:39,763 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:40,764 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:40,765 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:41,766 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:41,767 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:42,769 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:42,770 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:43,770 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:43,772 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:44,773 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:44,776 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:45,777 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:45,778 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:46,779 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:46,781 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:47,782 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:47,783 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:48,787 - WARNING - Thread CameraThread has stopped
+2025-07-04 14:56:48,788 - WARNING - Thread WebServerThread has stopped
+2025-07-04 14:56:49,470 - INFO - Shutdown signal received, cleaning up...
+2025-07-04 14:56:51,477 - INFO - Shutdown complete
+2025-07-04 14:56:52,405 - INFO - Camera stopped
+2025-07-04 14:56:52,553 - INFO - Camera closed successfully.
+2025-07-04 15:03:16,590 - INFO - Initialization successful.
+2025-07-04 15:03:16,594 - INFO - Camera now open.
+2025-07-04 15:03:16,616 - INFO - Configuration successful!
+2025-07-04 15:03:16,826 - INFO - Camera started
+2025-07-04 15:03:16,827 - INFO - Camera initialized successfully
+2025-07-04 15:03:16,828 - INFO - Camera controller started
+2025-07-04 15:03:16,832 - INFO - Status - Voltage: 72092.00V, Charging: None, Storage: 21.63GB
+2025-07-04 15:03:16,833 - INFO - Starting recording: All conditions met
+2025-07-04 15:03:16,929 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_150316.h264
+2025-07-04 15:03:26,940 - INFO - Status - Voltage: 72086.00V, Charging: None, Storage: 21.62GB
+2025-07-04 15:03:36,945 - INFO - Status - Voltage: 72086.00V, Charging: None, Storage: 21.61GB
+2025-07-04 15:03:46,955 - INFO - Status - Voltage: 72084.00V, Charging: None, Storage: 21.60GB
+2025-07-04 15:03:56,961 - INFO - Status - Voltage: 72083.00V, Charging: None, Storage: 21.58GB
+2025-07-04 15:04:05,016 - INFO - Received signal 2
+2025-07-04 15:04:06,100 - INFO - Received signal 2
+2025-07-04 15:04:06,967 - INFO - Status - Voltage: 72083.00V, Charging: None, Storage: 21.57GB
+2025-07-04 15:04:06,969 - INFO - Cleaning up...
+2025-07-04 15:04:07,002 - INFO - Camera stopped
+2025-07-04 15:04:07,058 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_150316.h264
+2025-07-04 15:04:07,421 - INFO - Camera closed successfully.
+2025-07-04 15:04:07,421 - INFO - Camera controller stopped
+2025-07-04 15:11:20,628 - INFO - Initialization successful.
+2025-07-04 15:11:20,651 - INFO - Camera now open.
+2025-07-04 15:11:20,672 - INFO - Configuration successful!
+2025-07-04 15:11:20,936 - INFO - Camera started
+2025-07-04 15:11:20,938 - INFO - Camera initialized successfully
+2025-07-04 15:11:47,727 - INFO - Initialization successful.
+2025-07-04 15:11:47,768 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:11:47,787 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:12:21,535 - INFO - Camera stopped
+2025-07-04 15:12:22,496 - INFO - Camera closed successfully.
+2025-07-04 15:13:32,108 - INFO - Initialization successful.
+2025-07-04 15:13:32,123 - INFO - Camera now open.
+2025-07-04 15:13:32,169 - INFO - Configuration successful!
+2025-07-04 15:13:32,490 - INFO - Camera started
+2025-07-04 15:13:32,493 - INFO - Camera initialized successfully
+2025-07-04 15:13:32,496 - INFO - Camera controller started
+2025-07-04 15:13:32,510 - INFO - Status - Voltage: 72082.00V, Charging: None, Storage: 21.57GB
+2025-07-04 15:13:32,512 - INFO - Starting recording: All conditions met
+2025-07-04 15:13:32,627 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_151332.h264
+2025-07-04 15:13:42,645 - INFO - Status - Voltage: 11271.00V, Charging: None, Storage: 21.56GB
+2025-07-04 15:13:52,685 - INFO - Status - Voltage: 11269.00V, Charging: None, Storage: 21.55GB
+2025-07-04 15:13:55,798 - INFO - Initialization successful.
+2025-07-04 15:13:55,829 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:13:55,832 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:14:02,700 - INFO - Status - Voltage: 11266.00V, Charging: None, Storage: 21.54GB
+2025-07-04 15:14:12,723 - INFO - Status - Voltage: 11266.00V, Charging: None, Storage: 21.53GB
+2025-07-04 15:14:22,729 - INFO - Status - Voltage: 11259.00V, Charging: None, Storage: 21.52GB
+2025-07-04 15:14:32,734 - INFO - Status - Voltage: 11260.00V, Charging: None, Storage: 21.50GB
+2025-07-04 15:14:42,745 - INFO - Status - Voltage: 11324.00V, Charging: True, Storage: 21.49GB
+2025-07-04 15:14:42,749 - INFO - Stopping recording: Charging detected
+2025-07-04 15:14:42,916 - INFO - Camera stopped
+2025-07-04 15:14:43,016 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_151332.h264
+2025-07-04 15:14:53,023 - INFO - Status - Voltage: 11341.00V, Charging: True, Storage: 21.49GB
+2025-07-04 15:15:03,027 - INFO - Status - Voltage: 11345.00V, Charging: True, Storage: 21.49GB
+2025-07-04 15:15:13,033 - INFO - Status - Voltage: 11286.00V, Charging: None, Storage: 21.49GB
+2025-07-04 15:15:13,034 - INFO - Starting recording: All conditions met
+2025-07-04 15:15:13,610 - INFO - Camera started
+2025-07-04 15:15:13,611 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_151513.h264
+2025-07-04 15:15:23,615 - INFO - Status - Voltage: 11275.00V, Charging: None, Storage: 21.48GB
+2025-07-04 15:15:33,825 - INFO - Status - Voltage: 11273.00V, Charging: None, Storage: 21.47GB
+2025-07-04 15:15:42,715 - INFO - Received signal 2
+2025-07-04 15:15:43,832 - INFO - Status - Voltage: 11271.00V, Charging: None, Storage: 21.46GB
+2025-07-04 15:15:43,837 - INFO - Cleaning up...
+2025-07-04 15:15:43,862 - INFO - Camera stopped
+2025-07-04 15:15:44,280 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_151513.h264
+2025-07-04 15:15:44,918 - INFO - Camera closed successfully.
+2025-07-04 15:15:44,925 - INFO - Camera controller stopped
+2025-07-04 15:16:08,297 - INFO - Received signal 2
+2025-07-04 15:16:24,272 - INFO - Received signal 2
+2025-07-04 15:16:24,352 - INFO - Received signal 2
+2025-07-04 15:16:26,932 - INFO - Received signal 2
+2025-07-04 15:16:27,584 - INFO - Received signal 2
+2025-07-04 15:16:27,929 - INFO - Received signal 2
+2025-07-04 15:16:28,163 - INFO - Received signal 2
+2025-07-04 15:16:28,409 - INFO - Received signal 2
+2025-07-04 15:16:28,928 - INFO - Received signal 2
+2025-07-04 15:16:55,963 - INFO - Received signal 2
+2025-07-04 15:16:59,179 - INFO - Received signal 2
+2025-07-04 15:16:59,468 - INFO - Received signal 2
+2025-07-04 15:16:59,754 - INFO - Received signal 2
+2025-07-04 15:17:00,075 - INFO - Received signal 2
+2025-07-04 15:17:00,584 - INFO - Received signal 2
+2025-07-04 15:17:01,160 - INFO - Received signal 2
+2025-07-04 15:17:01,767 - INFO - Received signal 2
+2025-07-04 15:17:02,031 - INFO - Received signal 2
+2025-07-04 15:17:02,239 - INFO - Received signal 2
+2025-07-04 15:17:02,434 - INFO - Received signal 2
+2025-07-04 15:17:02,622 - INFO - Received signal 2
+2025-07-04 15:17:03,814 - INFO - Received signal 2
+2025-07-04 15:17:04,716 - INFO - Received signal 2
+2025-07-04 15:17:06,745 - INFO - Received signal 2
+2025-07-04 15:17:08,700 - INFO - Received signal 2
+2025-07-04 15:17:10,417 - INFO - Received signal 2
+2025-07-04 15:17:11,376 - INFO - Received signal 2
+2025-07-04 15:17:11,790 - INFO - Received signal 2
+2025-07-04 15:17:12,051 - INFO - Received signal 2
+2025-07-04 15:17:12,229 - INFO - Received signal 2
+2025-07-04 15:17:14,272 - INFO - Received signal 2
+2025-07-04 15:17:14,724 - INFO - Received signal 2
+2025-07-04 15:17:15,425 - INFO - Received signal 2
+2025-07-04 15:17:15,715 - INFO - Received signal 2
+2025-07-04 15:18:09,738 - INFO - Initialization successful.
+2025-07-04 15:18:09,745 - INFO - Camera now open.
+2025-07-04 15:18:09,768 - INFO - Configuration successful!
+2025-07-04 15:18:11,243 - INFO - Camera started
+2025-07-04 15:18:11,245 - INFO - Camera initialized successfully
+2025-07-04 15:18:11,246 - INFO - Camera controller started
+2025-07-04 15:18:11,260 - INFO - Status - Voltage: 11275.00V, Charging: None, Storage: 21.46GB
+2025-07-04 15:18:11,262 - INFO - Starting recording: All conditions met
+2025-07-04 15:18:11,353 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_151811.h264
+2025-07-04 15:18:21,371 - INFO - Status - Voltage: 11262.00V, Charging: None, Storage: 21.45GB
+2025-07-04 15:18:35,136 - INFO - Status - Voltage: 11262.00V, Charging: None, Storage: 21.44GB
+2025-07-04 15:18:45,455 - INFO - Status - Voltage: 11259.00V, Charging: None, Storage: 21.42GB
+2025-07-04 15:18:48,189 - INFO - Initialization successful.
+2025-07-04 15:18:48,231 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:18:48,236 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:18:55,549 - INFO - Status - Voltage: 11260.00V, Charging: None, Storage: 21.41GB
+2025-07-04 15:19:05,555 - INFO - Status - Voltage: 11260.00V, Charging: None, Storage: 21.40GB
+2025-07-04 15:19:05,782 - INFO - Received signal 2
+2025-07-04 15:19:14,880 - INFO - Received signal 2
+2025-07-04 15:19:15,561 - INFO - Status - Voltage: 11258.00V, Charging: None, Storage: 21.39GB
+2025-07-04 15:19:15,566 - INFO - Cleaning up...
+2025-07-04 15:19:15,671 - INFO - Camera stopped
+2025-07-04 15:19:15,738 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_151811.h264
+2025-07-04 15:19:16,347 - INFO - Camera closed successfully.
+2025-07-04 15:19:16,355 - INFO - Camera controller stopped
+2025-07-04 15:19:32,071 - INFO - Received signal 2
+2025-07-04 15:21:08,364 - INFO - Initialization successful.
+2025-07-04 15:21:08,377 - INFO - Camera now open.
+2025-07-04 15:21:08,404 - INFO - Configuration successful!
+2025-07-04 15:21:08,699 - INFO - Camera started
+2025-07-04 15:21:08,701 - INFO - Camera initialized successfully
+2025-07-04 15:21:28,153 - INFO - Initialization successful.
+2025-07-04 15:21:28,189 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:21:28,191 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:21:39,346 - INFO - Camera stopped
+2025-07-04 15:21:40,084 - INFO - Camera closed successfully.
+2025-07-04 15:31:38,519 - INFO - Initialization successful.
+2025-07-04 15:31:38,530 - INFO - Camera now open.
+2025-07-04 15:31:38,556 - INFO - Configuration successful!
+2025-07-04 15:31:38,808 - INFO - Camera started
+2025-07-04 15:31:38,810 - INFO - Camera initialized successfully
+2025-07-04 15:31:57,491 - INFO - Initialization successful.
+2025-07-04 15:31:57,547 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:31:57,562 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:32:08,623 - INFO - Initialization successful.
+2025-07-04 15:32:08,687 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:32:08,692 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:32:26,212 - INFO - Initialization successful.
+2025-07-04 15:32:26,214 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:32:26,216 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:32:34,147 - INFO - Camera stopped
+2025-07-04 15:32:34,267 - INFO - Camera closed successfully.
+2025-07-04 15:43:27,986 - INFO - Initialization successful.
+2025-07-04 15:43:27,991 - INFO - Camera now open.
+2025-07-04 15:43:28,012 - INFO - Configuration successful!
+2025-07-04 15:43:28,266 - INFO - Camera started
+2025-07-04 15:43:28,268 - INFO - Camera initialized successfully
+2025-07-04 15:43:49,718 - INFO - Initialization successful.
+2025-07-04 15:43:49,762 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:43:49,769 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:43:59,354 - INFO - Initialization successful.
+2025-07-04 15:43:59,424 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:43:59,429 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:44:04,186 - INFO - Camera stopped
+2025-07-04 15:44:04,351 - INFO - Camera closed successfully.
+2025-07-04 15:45:01,583 - INFO - Initialization successful.
+2025-07-04 15:45:01,588 - INFO - Camera now open.
+2025-07-04 15:45:01,610 - INFO - Configuration successful!
+2025-07-04 15:45:01,902 - INFO - Camera started
+2025-07-04 15:45:01,910 - INFO - Camera initialized successfully
+2025-07-04 15:45:01,912 - INFO - Camera controller started
+2025-07-04 15:45:01,941 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.33GB
+2025-07-04 15:45:01,942 - INFO - Starting recording: All conditions met
+2025-07-04 15:45:02,083 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_154501.h264
+2025-07-04 15:45:12,089 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.32GB
+2025-07-04 15:45:22,292 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.32GB
+2025-07-04 15:45:30,493 - INFO - Initialization successful.
+2025-07-04 15:45:30,531 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:45:30,535 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:45:31,558 - INFO - Initialization successful.
+2025-07-04 15:45:31,611 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:45:31,614 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:45:32,475 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.32GB
+2025-07-04 15:45:42,484 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.32GB
+2025-07-04 15:45:52,490 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:45:59,891 - INFO - Initialization successful.
+2025-07-04 15:45:59,893 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:45:59,894 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:46:02,494 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:46:12,501 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:46:22,507 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:46:32,513 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:46:42,519 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:46:52,525 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:47:02,532 - INFO - Status - Voltage: 11.30V, Charging: True, Storage: 21.32GB
+2025-07-04 15:47:02,534 - INFO - Stopping recording: Charging detected
+2025-07-04 15:47:02,663 - INFO - Camera stopped
+2025-07-04 15:47:02,971 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_154501.h264
+2025-07-04 15:47:12,978 - INFO - Status - Voltage: 11.31V, Charging: True, Storage: 21.32GB
+2025-07-04 15:47:22,983 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:47:22,984 - INFO - Starting recording: All conditions met
+2025-07-04 15:47:23,446 - INFO - Camera started
+2025-07-04 15:47:23,448 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_154722.h264
+2025-07-04 15:47:33,454 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.32GB
+2025-07-04 15:47:43,462 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.32GB
+2025-07-04 15:47:53,467 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.32GB
+2025-07-04 15:48:03,472 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.32GB
+2025-07-04 15:48:08,936 - INFO - Received signal 2
+2025-07-04 15:48:13,477 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.32GB
+2025-07-04 15:48:13,478 - INFO - Cleaning up...
+2025-07-04 15:48:13,493 - INFO - Camera stopped
+2025-07-04 15:48:13,759 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_154722.h264
+2025-07-04 15:48:13,958 - INFO - Camera closed successfully.
+2025-07-04 15:48:13,963 - INFO - Camera controller stopped
+2025-07-04 15:49:52,532 - INFO - Initialization successful.
+2025-07-04 15:49:52,546 - INFO - Camera now open.
+2025-07-04 15:49:52,604 - INFO - Configuration successful!
+2025-07-04 15:49:53,276 - INFO - Camera started
+2025-07-04 15:49:53,277 - INFO - Camera initialized successfully
+2025-07-04 15:49:53,279 - INFO - Camera controller started
+2025-07-04 15:49:53,362 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.78GB
+2025-07-04 15:49:53,363 - INFO - Starting recording: All conditions met
+2025-07-04 15:49:54,710 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_154953.h264
+2025-07-04 15:50:04,740 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.77GB
+2025-07-04 15:50:14,968 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.76GB
+2025-07-04 15:50:18,021 - INFO - Initialization successful.
+2025-07-04 15:50:18,045 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:50:18,049 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:50:23,377 - INFO - Initialization successful.
+2025-07-04 15:50:23,406 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:50:23,411 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:50:25,109 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:50:35,115 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.75GB
+2025-07-04 15:50:45,121 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.75GB
+2025-07-04 15:50:46,692 - INFO - Initialization successful.
+2025-07-04 15:50:46,694 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:50:46,696 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:50:55,128 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.75GB
+2025-07-04 15:51:05,133 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:51:15,138 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.75GB
+2025-07-04 15:51:25,143 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:51:35,149 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:51:45,154 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:51:55,159 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:52:05,164 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:52:15,169 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:52:25,174 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:52:35,179 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.75GB
+2025-07-04 15:52:45,185 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:52:51,232 - INFO - Received signal 2
+2025-07-04 15:52:55,189 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:52:55,193 - INFO - Cleaning up...
+2025-07-04 15:52:55,253 - INFO - Camera stopped
+2025-07-04 15:52:55,615 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_154953.h264
+2025-07-04 15:52:55,716 - INFO - Camera closed successfully.
+2025-07-04 15:52:55,719 - INFO - Camera controller stopped
+2025-07-04 15:54:27,690 - INFO - Initialization successful.
+2025-07-04 15:54:27,707 - INFO - Camera now open.
+2025-07-04 15:54:27,730 - INFO - Configuration successful!
+2025-07-04 15:54:27,996 - INFO - Camera started
+2025-07-04 15:54:27,998 - INFO - Camera initialized successfully
+2025-07-04 15:54:28,000 - INFO - Camera controller started
+2025-07-04 15:54:28,004 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.75GB
+2025-07-04 15:54:28,005 - INFO - Starting recording: All conditions met
+2025-07-04 15:54:28,178 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_155428.h264
+2025-07-04 15:54:38,186 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.74GB
+2025-07-04 15:54:48,667 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.73GB
+2025-07-04 15:54:57,583 - INFO - Initialization successful.
+2025-07-04 15:54:57,660 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:54:57,666 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:54:59,105 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.72GB
+2025-07-04 15:55:09,113 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.71GB
+2025-07-04 15:55:19,122 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 21.69GB
+2025-07-04 15:55:19,125 - INFO - Stopping recording: Charging detected
+2025-07-04 15:55:19,269 - INFO - Camera stopped
+2025-07-04 15:55:19,374 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_155428.h264
+2025-07-04 15:55:29,382 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 21.69GB
+2025-07-04 15:55:39,388 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 21.69GB
+2025-07-04 15:55:49,394 - INFO - Status - Voltage: 11.30V, Charging: True, Storage: 21.69GB
+2025-07-04 15:55:59,401 - INFO - Status - Voltage: 11.30V, Charging: True, Storage: 21.69GB
+2025-07-04 15:56:09,409 - INFO - Status - Voltage: 11.24V, Charging: None, Storage: 21.69GB
+2025-07-04 15:56:09,410 - INFO - Starting recording: All conditions met
+2025-07-04 15:56:10,007 - INFO - Camera started
+2025-07-04 15:56:10,010 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_155609.h264
+2025-07-04 15:56:20,017 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.68GB
+2025-07-04 15:56:30,023 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.67GB
+2025-07-04 15:56:35,827 - INFO - Received signal 2
+2025-07-04 15:56:40,030 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.66GB
+2025-07-04 15:56:40,035 - INFO - Cleaning up...
+2025-07-04 15:56:40,061 - INFO - Camera stopped
+2025-07-04 15:56:40,474 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_155609.h264
+2025-07-04 15:56:41,326 - INFO - Camera closed successfully.
+2025-07-04 15:56:41,337 - INFO - Camera controller stopped
+2025-07-04 15:57:06,208 - INFO - Received signal 2
+2025-07-04 15:57:23,128 - INFO - Initialization successful.
+2025-07-04 15:57:23,132 - INFO - Camera now open.
+2025-07-04 15:57:23,154 - INFO - Configuration successful!
+2025-07-04 15:57:23,727 - INFO - Camera started
+2025-07-04 15:57:23,729 - INFO - Camera initialized successfully
+2025-07-04 15:57:23,730 - INFO - Camera controller started
+2025-07-04 15:57:23,734 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.66GB
+2025-07-04 15:57:23,735 - INFO - Starting recording: All conditions met
+2025-07-04 15:57:23,997 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_155723.h264
+2025-07-04 15:57:34,002 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.65GB
+2025-07-04 15:57:45,124 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.64GB
+2025-07-04 15:57:55,855 - INFO - Initialization successful.
+2025-07-04 15:57:55,900 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 15:57:55,904 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 15:57:57,047 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.63GB
+2025-07-04 15:58:07,059 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.62GB
+2025-07-04 15:58:17,066 - INFO - Status - Voltage: 11.21V, Charging: True, Storage: 21.61GB
+2025-07-04 15:58:17,068 - INFO - Stopping recording: Charging detected
+2025-07-04 15:58:17,188 - INFO - Camera stopped
+2025-07-04 15:58:17,263 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_155723.h264
+2025-07-04 15:58:27,273 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 21.60GB
+2025-07-04 15:58:37,279 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 21.60GB
+2025-07-04 15:58:47,286 - INFO - Status - Voltage: 11.30V, Charging: True, Storage: 21.60GB
+2025-07-04 15:58:57,292 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.60GB
+2025-07-04 15:58:57,294 - INFO - Starting recording: All conditions met
+2025-07-04 15:58:57,829 - INFO - Camera started
+2025-07-04 15:58:57,831 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_155857.h264
+2025-07-04 15:59:00,466 - INFO - Received signal 2
+2025-07-04 15:59:06,472 - INFO - Received signal 2
+2025-07-04 15:59:07,835 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.59GB
+2025-07-04 15:59:07,837 - INFO - Cleaning up...
+2025-07-04 15:59:07,867 - INFO - Camera stopped
+2025-07-04 15:59:07,923 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_155857.h264
+2025-07-04 15:59:08,505 - INFO - Camera closed successfully.
+2025-07-04 15:59:08,515 - INFO - Camera controller stopped
+2025-07-04 16:03:25,307 - INFO - Initialization successful.
+2025-07-04 16:03:25,322 - INFO - Camera now open.
+2025-07-04 16:03:25,399 - INFO - Configuration successful!
+2025-07-04 16:03:25,773 - INFO - Camera started
+2025-07-04 16:03:25,774 - INFO - Camera initialized successfully
+2025-07-04 16:03:25,778 - INFO - Camera controller started
+2025-07-04 16:03:25,831 - INFO - Status - Voltage: 11.22V, Charging: None, Storage: 21.59GB
+2025-07-04 16:03:25,832 - INFO - Starting recording: All conditions met
+2025-07-04 16:03:26,175 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_160325.h264
+2025-07-04 16:03:37,816 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.58GB
+2025-07-04 16:03:48,882 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.57GB
+2025-07-04 16:03:59,545 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.56GB
+2025-07-04 16:04:03,623 - INFO - Initialization successful.
+2025-07-04 16:04:03,649 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 16:04:03,653 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 16:04:09,667 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.55GB
+2025-07-04 16:04:19,676 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.54GB
+2025-07-04 16:04:29,680 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.53GB
+2025-07-04 16:04:39,690 - INFO - Status - Voltage: 11.26V, Charging: True, Storage: 21.52GB
+2025-07-04 16:04:39,692 - INFO - Stopping recording: Charging detected
+2025-07-04 16:04:39,830 - INFO - Camera stopped
+2025-07-04 16:04:39,910 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_160325.h264
+2025-07-04 16:04:49,919 - INFO - Status - Voltage: 11.28V, Charging: True, Storage: 21.52GB
+2025-07-04 16:04:59,925 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 21.52GB
+2025-07-04 16:05:09,932 - INFO - Status - Voltage: 11.23V, Charging: None, Storage: 21.52GB
+2025-07-04 16:05:09,933 - INFO - Starting recording: All conditions met
+2025-07-04 16:05:10,461 - INFO - Camera started
+2025-07-04 16:05:10,462 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_160509.h264
+2025-07-04 16:05:12,615 - INFO - Received signal 2
+2025-07-04 16:08:15,180 - INFO - Initialization successful.
+2025-07-04 16:08:15,255 - INFO - Camera now open.
+2025-07-04 16:08:15,385 - INFO - Configuration successful!
+2025-07-04 16:08:18,933 - INFO - Camera started
+2025-07-04 16:08:18,981 - INFO - Camera initialized successfully
+2025-07-04 16:08:19,026 - INFO - Camera controller started
+2025-07-04 16:08:19,073 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.51GB
+2025-07-04 16:08:19,075 - INFO - Starting recording: All conditions met
+2025-07-04 16:08:20,719 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_160819.h264
+2025-07-04 16:08:30,797 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.50GB
+2025-07-04 16:08:41,208 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.49GB
+2025-07-04 16:08:53,541 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.48GB
+2025-07-04 16:09:04,390 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.47GB
+2025-07-04 16:09:07,215 - INFO - Initialization successful.
+2025-07-04 16:09:07,251 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 16:09:07,255 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 16:09:14,419 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.46GB
+2025-07-04 16:09:24,424 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.45GB
+2025-07-04 16:09:34,431 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.44GB
+2025-07-04 16:09:44,438 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.43GB
+2025-07-04 16:09:54,443 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.41GB
+2025-07-04 16:10:04,449 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.40GB
+2025-07-04 16:10:14,458 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.39GB
+2025-07-04 16:10:24,463 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.38GB
+2025-07-04 16:10:34,468 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.37GB
+2025-07-04 16:10:44,475 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.36GB
+2025-07-04 16:10:54,481 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.34GB
+2025-07-04 16:11:04,488 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.33GB
+2025-07-04 16:11:14,493 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.32GB
+2025-07-04 16:11:24,498 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.31GB
+2025-07-04 16:11:34,502 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.30GB
+2025-07-04 16:11:44,508 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.29GB
+2025-07-04 16:11:54,513 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.27GB
+2025-07-04 16:12:04,523 - INFO - Status - Voltage: 11.25V, Charging: True, Storage: 21.26GB
+2025-07-04 16:12:04,525 - INFO - Stopping recording: Charging detected
+2025-07-04 16:12:04,659 - INFO - Camera stopped
+2025-07-04 16:12:04,751 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_160819.h264
+2025-07-04 16:12:14,759 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 21.26GB
+2025-07-04 16:12:24,765 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.26GB
+2025-07-04 16:12:24,766 - INFO - Starting recording: All conditions met
+2025-07-04 16:12:25,079 - INFO - Camera started
+2025-07-04 16:12:25,081 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_161224.h264
+2025-07-04 16:12:35,086 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.25GB
+2025-07-04 16:12:45,093 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.24GB
+2025-07-04 16:12:55,098 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.23GB
+2025-07-04 16:13:05,104 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.22GB
+2025-07-04 16:13:15,110 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.20GB
+2025-07-04 16:13:25,115 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.19GB
+2025-07-04 16:13:35,121 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.18GB
+2025-07-04 16:13:45,128 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.17GB
+2025-07-04 16:13:55,134 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.16GB
+2025-07-04 16:14:05,138 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.15GB
+2025-07-04 16:14:16,191 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 21.13GB
+2025-07-04 16:14:26,196 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.12GB
+2025-07-04 16:14:36,201 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.11GB
+2025-07-04 16:14:46,206 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.10GB
+2025-07-04 16:14:56,212 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.09GB
+2025-07-04 16:15:06,218 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.07GB
+2025-07-04 16:15:16,223 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.06GB
+2025-07-04 16:15:26,229 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.05GB
+2025-07-04 16:15:36,235 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.04GB
+2025-07-04 16:15:46,241 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.03GB
+2025-07-04 16:15:56,246 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.02GB
+2025-07-04 16:16:06,251 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.01GB
+2025-07-04 16:16:16,256 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 21.00GB
+2025-07-04 16:16:26,262 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.98GB
+2025-07-04 16:16:36,266 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.97GB
+2025-07-04 16:16:46,271 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.96GB
+2025-07-04 16:16:56,277 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.95GB
+2025-07-04 16:17:06,286 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.94GB
+2025-07-04 16:17:16,290 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.93GB
+2025-07-04 16:17:26,295 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.91GB
+2025-07-04 16:17:36,302 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.90GB
+2025-07-04 16:17:46,311 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.89GB
+2025-07-04 16:17:56,316 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.88GB
+2025-07-04 16:18:06,322 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.87GB
+2025-07-04 16:18:16,327 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.86GB
+2025-07-04 16:18:26,333 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.84GB
+2025-07-04 16:18:36,341 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.83GB
+2025-07-04 16:18:46,346 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.82GB
+2025-07-04 16:18:56,350 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.81GB
+2025-07-04 16:19:06,356 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.80GB
+2025-07-04 16:19:16,361 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.79GB
+2025-07-04 16:19:26,368 - INFO - Status - Voltage: 11.22V, Charging: True, Storage: 20.78GB
+2025-07-04 16:19:26,370 - INFO - Stopping recording: Charging detected
+2025-07-04 16:19:26,424 - INFO - Camera stopped
+2025-07-04 16:19:26,479 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250704_161224.h264
+2025-07-04 16:19:36,486 - INFO - Status - Voltage: 11.23V, Charging: True, Storage: 20.77GB
+2025-07-04 16:19:46,492 - INFO - Status - Voltage: 11.24V, Charging: True, Storage: 20.77GB
+2025-07-04 16:19:56,499 - INFO - Status - Voltage: 11.25V, Charging: True, Storage: 20.77GB
+2025-07-04 16:20:06,505 - INFO - Status - Voltage: 11.25V, Charging: True, Storage: 20.77GB
+2025-07-04 16:20:16,513 - INFO - Status - Voltage: 11.26V, Charging: True, Storage: 20.77GB
+2025-07-04 16:20:26,520 - INFO - Status - Voltage: 11.26V, Charging: True, Storage: 20.77GB
+2025-07-04 16:20:36,525 - INFO - Status - Voltage: 11.26V, Charging: True, Storage: 20.77GB
+2025-07-04 16:20:46,529 - INFO - Status - Voltage: 11.26V, Charging: True, Storage: 20.77GB
+2025-07-04 16:20:56,535 - INFO - Status - Voltage: 11.26V, Charging: True, Storage: 20.77GB
+2025-07-04 16:21:06,541 - INFO - Status - Voltage: 11.26V, Charging: True, Storage: 20.77GB
+2025-07-04 16:21:16,548 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 20.77GB
+2025-07-04 16:21:26,553 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 20.77GB
+2025-07-04 16:21:36,559 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 20.77GB
+2025-07-04 16:21:46,565 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 20.77GB
+2025-07-04 16:21:56,571 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 20.77GB
+2025-07-04 16:22:06,578 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 20.77GB
+2025-07-04 16:22:16,584 - INFO - Status - Voltage: 11.28V, Charging: True, Storage: 20.77GB
+2025-07-04 16:22:26,590 - INFO - Status - Voltage: 11.28V, Charging: True, Storage: 20.77GB
+2025-07-04 16:22:36,598 - INFO - Status - Voltage: 11.28V, Charging: True, Storage: 20.77GB
+2025-07-04 16:22:46,604 - INFO - Status - Voltage: 11.28V, Charging: True, Storage: 20.77GB
+2025-07-04 16:22:56,610 - INFO - Status - Voltage: 11.28V, Charging: True, Storage: 20.77GB
+2025-07-04 16:23:06,617 - INFO - Status - Voltage: 11.28V, Charging: True, Storage: 20.77GB
+2025-07-04 16:23:16,623 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:23:26,629 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:23:36,636 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:23:46,642 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:23:56,648 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:24:06,654 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:24:16,660 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:24:26,666 - INFO - Status - Voltage: 11.29V, Charging: True, Storage: 20.77GB
+2025-07-04 16:24:36,672 - INFO - Status - Voltage: 11.30V, Charging: True, Storage: 20.77GB
+2025-07-04 16:24:46,678 - INFO - Status - Voltage: 11.30V, Charging: True, Storage: 20.77GB
+2025-07-04 16:24:56,686 - INFO - Status - Voltage: 12.62V, Charging: True, Storage: 20.77GB
+2025-07-04 16:25:25,498 - INFO - Initialization successful.
+2025-07-04 16:25:25,532 - INFO - Camera now open.
+2025-07-04 16:25:25,616 - INFO - Configuration successful!
+2025-07-04 16:25:26,469 - INFO - Camera started
+2025-07-04 16:25:26,557 - INFO - Camera initialized successfully
+2025-07-04 16:25:26,560 - INFO - Camera controller started
+2025-07-04 16:25:26,691 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 20.77GB
+2025-07-04 16:25:26,692 - INFO - Starting recording: All conditions met
+2025-07-04 16:25:27,610 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250704_162526.h264
+2025-07-04 16:25:37,662 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 20.76GB
+2025-07-04 16:25:48,960 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 20.75GB
+2025-07-04 16:26:00,152 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 20.74GB
+2025-07-04 16:26:11,340 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.73GB
+2025-07-04 16:26:21,595 - INFO - Initialization successful.
+2025-07-04 16:26:21,648 - ERROR - Camera __init__ sequence did not complete.
+2025-07-04 16:26:21,651 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-04 16:26:22,173 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.72GB
+2025-07-04 16:26:32,235 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 20.71GB
+2025-07-04 16:26:42,240 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.70GB
+2025-07-04 16:26:52,248 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.69GB
+2025-07-04 16:27:02,254 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.68GB
+2025-07-04 16:27:12,259 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.66GB
+2025-07-04 16:27:22,265 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.65GB
+2025-07-04 16:27:32,275 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.64GB
+2025-07-04 16:27:42,282 - INFO - Status - Voltage: 11.18V, Charging: None, Storage: 20.63GB
+2025-07-04 16:27:52,288 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.62GB
+2025-07-04 16:28:02,295 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.61GB
+2025-07-04 16:28:12,303 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.59GB
+2025-07-04 16:28:22,308 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.58GB
+2025-07-04 16:28:32,313 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.57GB
+2025-07-04 16:28:42,320 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.56GB
+2025-07-04 16:28:52,327 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.55GB
+2025-07-04 16:29:02,336 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.54GB
+2025-07-04 16:29:12,340 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.52GB
+2025-07-04 16:29:22,346 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.51GB
+2025-07-04 16:29:32,351 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.50GB
+2025-07-04 16:29:42,358 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.49GB
+2025-07-04 16:29:52,363 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.48GB
+2025-07-04 16:30:02,370 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.47GB
+2025-07-04 16:30:12,377 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.46GB
+2025-07-04 16:30:22,384 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.44GB
+2025-07-04 16:30:32,389 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.43GB
+2025-07-04 16:30:42,398 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.42GB
+2025-07-04 16:30:52,404 - INFO - Status - Voltage: 11.17V, Charging: None, Storage: 20.41GB
+2025-07-04 16:31:02,411 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.40GB
+2025-07-04 16:31:12,415 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.39GB
+2025-07-04 16:31:22,422 - INFO - Status - Voltage: 11.16V, Charging: None, Storage: 20.37GB
+2025-07-04 16:31:33,416 - ERROR - Failed to initialize camera: list index out of range
+2025-07-04 16:32:07,514 - ERROR - Failed to initialize camera: list index out of range
+2025-07-05 12:34:08,913 - ERROR - Failed to initialize camera: list index out of range
+2025-07-05 12:34:16,838 - ERROR - Failed to initialize camera: list index out of range
+2025-07-05 12:41:49,833 - ERROR - Failed to initialize camera: list index out of range
+2025-07-05 12:41:54,388 - ERROR - Failed to initialize camera: list index out of range
+2025-07-05 17:06:35,818 - ERROR - Failed to initialize camera: list index out of range
+2025-07-05 17:06:53,915 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:37:18,776 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:37:24,974 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:46:14,172 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:46:21,480 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:50:56,576 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:51:00,751 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:56:35,092 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:56:43,108 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:58:11,185 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 12:58:17,924 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:00:39,508 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:00:43,865 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:03:58,196 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:04:03,742 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:06:01,956 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:06:05,627 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:11:16,443 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:11:20,447 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:15:34,643 - ERROR - Failed to initialize camera: list index out of range
+2025-07-08 13:15:34,644 - ERROR - Fatal error: list index out of range
+2025-07-08 13:19:08,730 - INFO - Initialization successful.
+2025-07-08 13:19:08,739 - INFO - Camera now open.
+2025-07-08 13:19:08,770 - INFO - Configuration successful!
+2025-07-08 13:19:10,238 - INFO - Camera started
+2025-07-08 13:19:10,246 - INFO - Camera initialized successfully
+2025-07-08 13:19:10,252 - INFO - Camera controller started
+2025-07-08 13:19:10,272 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.94GB
+2025-07-08 13:19:10,273 - INFO - Starting recording: All conditions met
+2025-07-08 13:19:10,392 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250708_131910.h264
+2025-07-08 13:19:20,399 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.92GB
+2025-07-08 13:19:29,575 - INFO - Received signal 2
+2025-07-08 13:19:30,404 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.91GB
+2025-07-08 13:19:30,405 - INFO - Cleaning up...
+2025-07-08 13:19:30,428 - INFO - Camera stopped
+2025-07-08 13:19:30,476 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250708_131910.h264
+2025-07-08 13:19:30,847 - INFO - Camera closed successfully.
+2025-07-08 13:19:30,847 - INFO - Camera controller stopped
+2025-07-08 13:20:38,669 - INFO - Initialization successful.
+2025-07-08 13:20:38,672 - INFO - Camera now open.
+2025-07-08 13:20:38,695 - INFO - Configuration successful!
+2025-07-08 13:20:38,943 - INFO - Camera started
+2025-07-08 13:20:38,944 - INFO - Camera initialized successfully
+2025-07-08 13:20:38,945 - INFO - Camera controller started
+2025-07-08 13:20:38,950 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.91GB
+2025-07-08 13:20:38,951 - INFO - Starting recording: All conditions met
+2025-07-08 13:20:39,088 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250708_132038.h264
+2025-07-08 13:20:49,314 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.90GB
+2025-07-08 13:20:53,187 - INFO - Initialization successful.
+2025-07-08 13:20:53,212 - ERROR - Camera __init__ sequence did not complete.
+2025-07-08 13:20:53,215 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-08 13:20:59,433 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.89GB
+2025-07-08 13:21:09,438 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.88GB
+2025-07-08 13:21:19,444 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.87GB
+2025-07-08 13:21:29,450 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.85GB
+2025-07-08 13:21:39,455 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.84GB
+2025-07-08 13:21:49,466 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.83GB
+2025-07-08 13:21:59,564 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.82GB
+2025-07-08 13:22:09,775 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.81GB
+2025-07-08 13:22:19,781 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.80GB
+2025-07-08 13:22:29,788 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.79GB
+2025-07-08 13:22:39,802 - INFO - Status - Voltage: 11.21V, Charging: True, Storage: 21.77GB
+2025-07-08 13:22:39,808 - INFO - Stopping recording: Charging detected
+2025-07-08 13:22:39,955 - INFO - Camera stopped
+2025-07-08 13:22:40,064 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250708_132038.h264
+2025-07-08 13:22:50,073 - INFO - Status - Voltage: 11.27V, Charging: True, Storage: 21.77GB
+2025-07-08 13:23:00,079 - INFO - Status - Voltage: 11.27V, Charging: None, Storage: 21.77GB
+2025-07-08 13:23:00,081 - INFO - Starting recording: All conditions met
+2025-07-08 13:23:00,437 - INFO - Camera started
+2025-07-08 13:23:00,451 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250708_132300.h264
+2025-07-08 13:23:08,469 - INFO - Received signal 2
+2025-07-08 13:23:10,457 - INFO - Status - Voltage: 11.21V, Charging: None, Storage: 21.76GB
+2025-07-08 13:23:10,460 - INFO - Cleaning up...
+2025-07-08 13:23:10,494 - INFO - Camera stopped
+2025-07-08 13:23:10,928 - INFO - Stopped recording: /home/raspberry/Jetscan/videos/recording_20250708_132300.h264
+2025-07-08 13:23:11,944 - INFO - Camera closed successfully.
+2025-07-08 13:23:11,958 - INFO - Camera controller stopped
+2025-07-08 16:58:30,398 - INFO - Initialization successful.
+2025-07-08 16:58:30,436 - INFO - Camera now open.
+2025-07-08 16:58:30,561 - INFO - Configuration successful!
+2025-07-08 16:58:32,305 - INFO - Camera started
+2025-07-08 16:58:32,306 - INFO - Camera initialized successfully
+2025-07-08 16:58:32,350 - INFO - Camera controller started
+2025-07-08 16:58:32,557 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.76GB
+2025-07-08 16:58:32,558 - INFO - Starting recording: All conditions met
+2025-07-08 16:58:33,012 - INFO - Started recording: /home/raspberry/Jetscan/videos/recording_20250708_165832.h264
+2025-07-08 16:58:44,604 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.75GB
+2025-07-08 16:58:57,296 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.74GB
+2025-07-08 16:59:10,365 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.73GB
+2025-07-08 16:59:22,368 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.83GB
+2025-07-08 16:59:39,232 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.78GB
+2025-07-08 16:59:54,061 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.72GB
+2025-07-08 17:00:04,728 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.70GB
+2025-07-08 17:00:11,947 - INFO - Initialization successful.
+2025-07-08 17:00:12,040 - ERROR - Camera __init__ sequence did not complete.
+2025-07-08 17:00:12,045 - ERROR - Failed to initialize camera: Camera __init__ sequence did not complete.
+2025-07-08 17:00:15,185 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.70GB
+2025-07-08 17:00:25,478 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.70GB
+2025-07-08 17:00:35,486 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.70GB
+2025-07-08 17:00:45,494 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.70GB
+2025-07-08 17:00:55,501 - INFO - Status - Voltage: 72.06V, Charging: None, Storage: 21.70GB
+2025-07-08 17:01:05,507 - INFO - Status - Voltage: 72.12V, Charging: None, Storage: 21.70GB
+2025-07-08 17:01:15,514 - INFO - Status - Voltage: 72.05V, Charging: None, Storage: 21.70GB
+2025-07-08 17:01:25,520 - INFO - Status - Voltage: 72.12V, Charging: None, Storage: 21.70GB
+2025-07-08 17:01:35,526 - INFO - Status - Voltage: 72.13V, Charging: None, Storage: 21.70GB
+2025-07-08 17:01:45,530 - INFO - Status - Voltage: 72.13V, Charging: None, Storage: 21.70GB
+2025-07-08 17:01:55,538 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.70GB
+2025-07-08 17:02:05,544 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.70GB
+2025-07-08 17:02:15,551 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.70GB
+2025-07-08 17:02:25,560 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.70GB
+2025-07-08 17:02:35,566 - INFO - Status - Voltage: 11.19V, Charging: None, Storage: 21.70GB
+2025-07-08 17:02:45,573 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.70GB
+2025-07-08 17:02:55,579 - INFO - Status - Voltage: 11.20V, Charging: None, Storage: 21.70GB
